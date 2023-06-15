@@ -14,6 +14,7 @@
 
 
 #### github repo link:- https://github.com/AshutoshRajGupta/cryptoworld/tree/main
+#### video link:-  https://www.youtube.com/watch?v=13uYceZh5_Y
 
 
 
